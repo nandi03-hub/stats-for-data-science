@@ -7,7 +7,7 @@ Each topic links to a Medium article and a small, reproducible project.
 
 | # | Topic | Medium | Code |
 |---|-------|--------|------|
-| 01 | Expectation | [Read](your-link) | [Folder](./01-expectation) |
+| 01 | Expectation | [Read](https://medium.com/@rathore.anandita03/the-role-of-expectation-in-data-science-ee22428409e3) | [Folder](./01-expectation) |
 | 02 | Variance & Standard Deviation | *coming soon* | [Folder](./02-variance) |
 
 ## Tools
